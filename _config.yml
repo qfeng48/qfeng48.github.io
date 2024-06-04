@@ -23,11 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Qing Feng"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "New York"
+  location         : "New York, NY, USA"
   employer         : "Cornell University"
-  uri              : # URL
   email            : "qf48@cornell.edu" 
 
   # Academic websites
