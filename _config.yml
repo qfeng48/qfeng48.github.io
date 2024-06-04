@@ -23,6 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Qing Feng"
+  bio              : "Ph.D. Student @ Cornell ORIE"
   location         : "New York, NY, USA"
   employer         : "Cornell University"
   email            : "qf48@cornell.edu" 
