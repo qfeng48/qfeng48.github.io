@@ -1,16 +1,30 @@
 ---
 layout: archive
-title: "Publications"
+title: "Working Papers"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+[PRINCIPRO: Data-Driven Algorithms for Joint Pricing and Inventory Control under Price Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4511384)\
+with Ruihao Zhu\
+Major revision at **Management Science**\
+Preliminary version published in *Proceedings of the 19th Conference on Web and Internet Economics* (**WINE 2023**)
 
-{% include base_path %}
+[Phase Transitions in Learning and Earning under Price Protection Guarantee](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4265182)\
+with Ruihao Zhu, Stefanus Jasin\
+Minor revision at **Operations Research**\
+Preliminary version published in *Proceedings of the 24th ACM Conference on Economics and Computationg* (**EC 2023**)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Dynamic Multinomial Logit Choice Model with Network Effects: a Diffusive Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939717)\
+with Zizhuo Wang\
+To be resubmitted to **Manufacturing & Service Operations Management**\
+Preliminary version published in *Proceedings of the 19th Conference on Web and Internet Economics* (**WINE 2023**)
+
+Journal Publications
+======
+
+[An Enhanced Alternating Direction Method of Multipliers-Based Interior Point Method for Linear and Conic Optimization](https://arxiv.org/abs/2209.01793)\
+with Qi Deng, Wenzhi Gao, Dongdong Ge, Bo Jiang, Yuntian Jiang, Jingsong Liu, Tianhao Liu, Chenyu Xue, Yinyu Ye, Chuwen Zhang\
+Forthcoming, **INFORMS Journal on Computing**
+
+
