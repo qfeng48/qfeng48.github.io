@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Satisficing Exploration in Bandit Optimization](http://arxiv.org/abs/2406.06802)\
+with Tianyi Ma, Ruihao Zhu
+
 [PRINCIPRO: Data-Driven Algorithms for Joint Pricing and Inventory Control under Price Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4511384)\
 with Ruihao Zhu\
 Major revision at **Management Science**\
