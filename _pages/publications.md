@@ -7,7 +7,7 @@ author_profile: true
 
 [Satisficing Exploration in Bandit Optimization](http://arxiv.org/abs/2406.06802)\
 with Tianyi Ma, Ruihao Zhu\
-Finalist (TBD), INFORMS DMDA Workshop Best Paper Competition 2024\
+Finalist, INFORMS DMDA Workshop Best Paper Competition 2024 (Theoretical Track)\
 Accepted for presentation at INFORMS Data Science Workshop 2024, INFORMS DMDA Workshop 2024
 
 [PRINCIPRO: Data-Driven Algorithms for Joint Pricing and Inventory Control under Price Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4511384)\
