@@ -25,7 +25,7 @@ Journal Publications
 
 [Temporal Fairness in Learning and Earning: Price Protection Guarantee and Phase Transitions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4265182)\
 with Ruihao Zhu, Stefanus Jasin\
-Accepted at **Operations Research**\
+Forthcoming, **Operations Research**\
 Preliminary version published in *Proceedings of the 24th ACM Conference on Economics and Computationg* (**EC 2023**)
 
 [An Enhanced Alternating Direction Method of Multipliers-Based Interior Point Method for Linear and Conic Optimization](https://arxiv.org/abs/2209.01793)\
