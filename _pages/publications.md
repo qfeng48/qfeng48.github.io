@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Working Papers"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+
+Working Papers
+======
 
 [Satisficing Exploration in Bandit Optimization](http://arxiv.org/abs/2406.06802)\
 with Tianyi Ma, Ruihao Zhu\
