@@ -8,6 +8,9 @@ author_profile: true
 Working Papers
 ======
 
+[Assortment Optimization under the Multinomial Logit Model with Covering Constraints](https://arxiv.org/abs/2411.10310)\
+with Omar El Housni, Huseyin Topaloglu
+
 [Satisficing Exploration in Bandit Optimization](http://arxiv.org/abs/2406.06802)\
 with Tianyi Ma, Ruihao Zhu\
 Finalist, INFORMS DMDA Workshop Best Paper Competition 2024 (Theoretical Track)\
