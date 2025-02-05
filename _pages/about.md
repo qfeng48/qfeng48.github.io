@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the School of [Operations Research and Information Engineering](https://www.orie.cornell.edu/orie), Cornell University, where I am fortunate to be advised by [Omar El Housni](https://people.orie.cornell.edu/oe46/) and [Huseyin Topaloglu](https://people.orie.cornell.edu/huseyin/). I also worked with [Ruihao Zhu](https://rzhu.github.io/) at SC Johnson College of Business, Cornell University.
+I am a third-year PhD student in the School of [Operations Research and Information Engineering](https://www.orie.cornell.edu/orie), Cornell University, where I am fortunate to be advised by [Omar El Housni](https://people.orie.cornell.edu/oe46/) and [Huseyin Topaloglu](https://people.orie.cornell.edu/huseyin/). I am also fortunate to collaborate with [Ruihao Zhu](https://rzhu.github.io/) at SC Johnson College of Business, Cornell University.
 
 I am broadly interested in approximation algorithms and data-driven algorithms with applications in revenue management and pricing.
 
