@@ -11,7 +11,7 @@ Working Papers
 [Assortment Optimization under the Multinomial Logit Model with Covering Constraints](https://arxiv.org/abs/2411.10310)\
 with Omar El Housni, Huseyin Topaloglu
 
-[Satisficing Exploration in Bandit Optimization](http://arxiv.org/abs/2406.06802)\
+[Satisficing Regret Minimization in Bandits](http://arxiv.org/abs/2406.06802)\
 with Tianyi Ma, Ruihao Zhu\
 Preliminary version accepted at the *13th International Conference on Learning Representations* (**ICLR 2025**)\
 Finalist, INFORMS DMDA Workshop Best Paper Competition 2024 (Theoretical Track)\
