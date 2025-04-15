@@ -33,7 +33,8 @@ Journal Publications
 **Temporal Fairness in Learning and Earning: Price Protection Guarantee and Phase Transitions** [[journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2022.0629), [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4265182)]\
 with Ruihao Zhu, Stefanus Jasin\
 **Operations Research** 73(2):775-797 (2025)\
-Preliminary version published in *Proceedings of the 24th ACM Conference on Economics and Computationg* (**EC 2023**)
+Preliminary version published in *Proceedings of the 24th ACM Conference on Economics and Computationg* (**EC 2023**)\
+Accepted for presentation at the *8th Market Innovation Workshop* (**MIW 2023**)
 
 **An Enhanced Alternating Direction Method of Multipliers-Based Interior Point Method for Linear and Conic Optimization** [[journal](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0017), [arxiv](https://arxiv.org/abs/2209.01793)]\
 with Qi Deng, Wenzhi Gao, Dongdong Ge, Bo Jiang, Yuntian Jiang, Jingsong Liu, Tianhao Liu, Chenyu Xue, Yinyu Ye, Chuwen Zhang\
