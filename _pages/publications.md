@@ -38,6 +38,6 @@ Accepted for presentation at the *8th Market Innovation Workshop* (**MIW 2023**)
 
 **An Enhanced Alternating Direction Method of Multipliers-Based Interior Point Method for Linear and Conic Optimization** [[journal](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0017), [arxiv](https://arxiv.org/abs/2209.01793)]\
 with Qi Deng, Wenzhi Gao, Dongdong Ge, Bo Jiang, Yuntian Jiang, Jingsong Liu, Tianhao Liu, Chenyu Xue, Yinyu Ye, Chuwen Zhang\
-Forthcoming, **INFORMS Journal on Computing** 37(2):338-359 (2025)
+**INFORMS Journal on Computing** 37(2):338-359 (2025)
 
 
