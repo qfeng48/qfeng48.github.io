@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Working Papers
-======
+Working Paper
+---
 
 **Assortment Optimization under the Multinomial Logit Model with Covering Constraints** [[arxiv](https://arxiv.org/abs/2411.10310)]\
 with Omar El Housni, Huseyin Topaloglu
@@ -28,7 +28,7 @@ To be resubmitted to **Manufacturing & Service Operations Management**\
 Preliminary version published in *Proceedings of the 19th Conference on Web and Internet Economics* (**WINE 2023**)
 
 Journal Publications
-======
+---
 
 **Temporal Fairness in Learning and Earning: Price Protection Guarantee and Phase Transitions** [[journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2022.0629), [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4265182)]\
 with Ruihao Zhu, Stefanus Jasin\
