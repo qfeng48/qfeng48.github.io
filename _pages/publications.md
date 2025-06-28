@@ -9,7 +9,8 @@ Working Paper
 ---
 
 **Assortment Optimization under the Multinomial Logit Model with Covering Constraints** [[arxiv](https://arxiv.org/abs/2411.10310)]\
-with Omar El Housni, Huseyin Topaloglu
+with Omar El Housni, Huseyin Topaloglu\
+Major Revision at **Manufacturing & Service Operations Management**
 
 **Satisficing Regret Minimization in Bandits** [[arxiv](http://arxiv.org/abs/2406.06802)]\
 with Tianyi Ma, Ruihao Zhu\
