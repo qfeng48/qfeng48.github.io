@@ -15,7 +15,7 @@ Major Revision at **Manufacturing & Service Operations Management**
 **Satisficing Regret Minimization in Bandits** [[arxiv](http://arxiv.org/abs/2406.06802)]\
 with Tianyi Ma, Ruihao Zhu\
 Preliminary version accepted at the *13th International Conference on Learning Representations* (**ICLR 2025**)\
-Finalist, INFORMS DMDA Workshop Best Paper Competition 2024 (Theoretical Track)\
+Finalist, INFORMS Data Mining Best Theoretical Paper Award, 2024\
 Accepted for presentation at INFORMS Data Science Workshop 2024, INFORMS DMDA Workshop 2024
 
 **PRINCIPRO: Data-Driven Algorithms for Joint Pricing and Inventory Control under Price Protection** [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4511384)]\
