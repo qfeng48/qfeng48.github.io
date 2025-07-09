@@ -8,6 +8,9 @@ author_profile: true
 Working Paper
 ---
 
+**Fairness-Aware Static and Dynamic Assortment Optimization: Optimal Selection with Balanced Market Share** [[arxiv](https://https://arxiv.org/abs/2507.05606)]\
+with Omar El Housni, Huseyin Topaloglu
+
 **Assortment Optimization under the Multinomial Logit Model with Covering Constraints** [[arxiv](https://arxiv.org/abs/2411.10310)]\
 with Omar El Housni, Huseyin Topaloglu\
 Major Revision at **Manufacturing & Service Operations Management**
