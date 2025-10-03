@@ -17,6 +17,7 @@ Under major revision at *Manufacturing & Service Operations Management*
 
 **Satisficing Regret Minimization in Bandits: Constant Rate and Light-Tailed Distribution** [[arxiv](http://arxiv.org/abs/2406.06802)]\
 with Tianyi Ma, Ruihao Zhu\
+Under major revision at *Management Science*\
 Preliminary version accepted at the *13th International Conference on Learning Representations* (*ICLR 2025*)\
 Finalist, INFORMS Data Mining Best Theoretical Paper Award, 2024\
 Accepted for presentation at INFORMS Data Science Workshop 2024, INFORMS DMDA Workshop 2024
