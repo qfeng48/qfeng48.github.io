@@ -14,4 +14,4 @@ ORIE 5132 Pricing Analytics and Revenue Management (Spring 2025)
 
 Service
 ---
-Reviewer for: *Operations Research*, *Manufacturing & Service Operations Management*, *INFORMS Journal on Computing*, *European Journal of Operational Research*, *IEEE Transactions on Signal Processing*
+Reviewer for: *Management Science*, *Operations Research*, *Manufacturing & Service Operations Management*, *INFORMS Journal on Computing*, *European Journal of Operational Research*, *IEEE Transactions on Signal Processing*
