@@ -13,7 +13,7 @@ with Omar El Housni, Huseyin Topaloglu
 
 **Assortment Optimization under the Multinomial Logit Model with Covering Constraints** [[arxiv](https://arxiv.org/abs/2411.10310)]\
 with Omar El Housni, Huseyin Topaloglu\
-Under major revision at *Manufacturing & Service Operations Management*
+Under minor revision at *Manufacturing & Service Operations Management*
 
 **Satisficing Regret Minimization in Bandits: Constant Rate and Light-Tailed Distribution** [[arxiv](http://arxiv.org/abs/2406.06802)]\
 with Tianyi Ma, Ruihao Zhu\
