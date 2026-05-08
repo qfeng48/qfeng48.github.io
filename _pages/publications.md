@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Working Paper
+Working Papers
 ---
 
 **Optimal Selection with Balanced Market Share: Static and Dynamic Assortment Optimization** [[arxiv](https://arxiv.org/abs/2507.05606)]\
-with Omar El Housni, Huseyin Topaloglu
+with Omar El Housni, Huseyin Topaloglu\
+Accepted for presentation at MSOM Supply Chain Management SIG 2026
 
 **Assortment Optimization under the Multinomial Logit Model with Covering Constraints** [[arxiv](https://arxiv.org/abs/2411.10310)]\
 with Omar El Housni, Huseyin Topaloglu\
