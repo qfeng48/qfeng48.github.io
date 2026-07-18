@@ -8,6 +8,7 @@ author_profile: true
 Teaching
 ---
 **Teaching Assistant, Cornell University**\
+BANA 5010 Introduction to Artificial Intelligence and Analytics (Summer 2026)\
 ORIE 5570 Reinforcement Learning with Operations Research Applications (Spring 2026)\
 ORIE 5132 Pricing Analytics and Revenue Management (Spring 2025)\
 ORIE 5530 Modeling under Uncertainty (Fall 2024, Fall 2025)\
