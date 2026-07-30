@@ -12,3 +12,5 @@ I am a fourth-year Ph.D. student in the School of [Operations Research and Infor
 I am broadly interested in approximation algorithms and data-driven algorithms with applications in revenue management and pricing.
 
 Prior to my Ph.D., I obtained my bachelor degree in Mathematics and Applied Mathematics at Fudan University in 2022.
+
+**I am on the 2026-27 job market!**
