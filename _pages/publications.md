@@ -8,6 +8,9 @@ author_profile: true
 Working Papers
 ---
 
+**Multi-Round Broadcast Matching** [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7017578)]\
+with Mona Mohammadi, Linwei Xin
+
 **Optimal Selection with Balanced Market Share: Static and Dynamic Assortment Optimization** [[arxiv](https://arxiv.org/abs/2507.05606)]\
 with Omar El Housni, Huseyin Topaloglu\
 Accepted for presentation at MSOM Supply Chain Management SIG 2026
