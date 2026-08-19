@@ -26,17 +26,17 @@ Preliminary version published in *Proceedings of the 13th International Conferen
 Finalist, INFORMS Data Mining Best Theoretical Paper Award, 2024\
 Accepted for presentation at INFORMS Data Science Workshop 2024, INFORMS DMDA Workshop 2024
 
-**PRINCIPRO: Data-Driven Algorithms for Joint Pricing and Inventory Control under Price Protection** [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4511384)]\
-with Ruihao Zhu\
-Under major revision at ***Management Science***\
-Preliminary version published in *Proceedings of the 19th Conference on Web and Internet Economics* (*WINE 2023*)
-
 **Dynamic Multinomial Logit Choice Model with Network Effects: a Diffusive Analysis** [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939717)]\
 with Zizhuo Wang\
 Preliminary version published in *Proceedings of the 19th Conference on Web and Internet Economics* (*WINE 2023*)
 
 Journal Publications
 ---
+
+**PRINCIPRO: Data-Driven Algorithms for Joint Pricing and Inventory Control under Price Protection** [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4511384)]\
+with Ruihao Zhu\
+***Management Science***, Accepted\
+Preliminary version published in *Proceedings of the 19th Conference on Web and Internet Economics* (*WINE 2023*)
 
 **Temporal Fairness in Learning and Earning: Price Protection Guarantee and Phase Transitions** [[journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2022.0629), [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4265182)]\
 with Ruihao Zhu, Stefanus Jasin\
