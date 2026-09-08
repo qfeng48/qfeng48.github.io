@@ -16,6 +16,8 @@ ENGRD 2700 Basic Engineering Probability and Statistics (Spring 2023, Spring 202
 
 Service
 ---
-Reviewer for: *Management Science*, *Operations Research*, *Manufacturing & Service Operations Management*, *INFORMS Journal on Computing*, *European Journal of Operational Research*, *IEEE Transactions on Signal Processing*, *NeurIPS 2026*
+Journal reviewer for: *Management Science*, *Operations Research*, *Manufacturing & Service Operations Management*, *INFORMS Journal on Computing*, *European Journal of Operational Research*, *IEEE Transactions on Signal Processing*
 
-PC member for: *EC 2026*
+Conference PC member for: *EC 2026*
+
+Conference reviewer for: *NeurIPS 2026*, *SOSA 2026*
