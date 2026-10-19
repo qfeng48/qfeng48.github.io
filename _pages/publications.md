@@ -8,6 +8,10 @@ author_profile: true
 Journal Publications
 ---
 
+**Assortment Optimization under the Multinomial Logit Model with Covering Constraints** [[arxiv](https://arxiv.org/abs/2411.10310)]\
+with Omar El Housni, Huseyin Topaloglu\
+***Manufacturing & Service Operations Management***, Accepted\
+
 **PRINCIPRO: Data-Driven Algorithms for Joint Pricing and Inventory Control under Price Protection** [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4511384)]\
 with Ruihao Zhu\
 ***Management Science***, Accepted\
@@ -33,10 +37,6 @@ with Mona Mohammadi, Linwei Xin
 with Omar El Housni, Huseyin Topaloglu\
 Under major revision at ***Management Science***\
 Accepted for presentation at MSOM Supply Chain Management SIG 2026
-
-**Assortment Optimization under the Multinomial Logit Model with Covering Constraints** [[arxiv](https://arxiv.org/abs/2411.10310)]\
-with Omar El Housni, Huseyin Topaloglu\
-Under minor revision at ***Manufacturing & Service Operations Management***
 
 **Satisficing Regret Minimization in Bandits: Constant Rate and Light-Tailed Distribution** [[arxiv](http://arxiv.org/abs/2406.06802)]\
 with Tianyi Ma, Ruihao Zhu\
