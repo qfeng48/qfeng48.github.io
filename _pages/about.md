@@ -14,3 +14,10 @@ I am broadly interested in approximation algorithms and data-driven algorithms w
 Prior to my Ph.D., I obtained my bachelor degree in Mathematics and Applied Mathematics at Fudan University in 2022.
 
 **I am on the 2026-27 job market!**
+
+I will be attending INFORMS Annual Meeting 2026, and details of my presentation are as follows:
+
+1. Session TD13: Tuesday, November 3rd, 2:45 - 3:03PM in Moscone South-151 (Upper Mezz)
+   - Title: Satisficing Regret Minimization in Bandits: Constant Bound and Light-Tailed Distribution
+2. Session TC03: Tuesday, November 3rd, 2:15 - 2:30PM in Moscone South-62 (Lower Mezz)
+   - Title: Optimal Selection with Balanced Market Share: Static and Dynaimc Assortment Optimization (on behalf of Huseyin Topaloglu)
