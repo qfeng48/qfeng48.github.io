@@ -31,7 +31,7 @@ Working Papers
 ---
 
 **Multi-Round Broadcast Matching** [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7017578)]\
-with Mona Mohammadi, Linwei Xin
+with Mona Mohammadi, Linwei Xin\
 Under major revision at ***Operations Research***\
 
 **Optimal Selection with Balanced Market Share: Static and Dynamic Assortment Optimization** [[arxiv](https://arxiv.org/abs/2507.05606)]\
